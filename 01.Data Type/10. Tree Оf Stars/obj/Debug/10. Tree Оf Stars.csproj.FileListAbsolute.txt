@@ -4,3 +4,6 @@ C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\10. Tree Оf Stars\bin\D
 C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\10. Tree Оf Stars\obj\Debug\10. Tree Оf Stars.csprojResolveAssemblyReference.cache
 C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\10. Tree Оf Stars\obj\Debug\_10.Tree_Оf_Stars.exe
 C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\10. Tree Оf Stars\obj\Debug\_10.Tree_Оf_Stars.pdb
+D:\CSharp\INTELLECT\SoftIntellect-Homeworks\01.Data Type\10. Tree Оf Stars\bin\Debug\_10.Tree_Оf_Stars.exe.config
+D:\CSharp\INTELLECT\SoftIntellect-Homeworks\01.Data Type\10. Tree Оf Stars\obj\Debug\_10.Tree_Оf_Stars.exe
+D:\CSharp\INTELLECT\SoftIntellect-Homeworks\01.Data Type\10. Tree Оf Stars\obj\Debug\_10.Tree_Оf_Stars.pdb
