@@ -1,0 +1,5 @@
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\traning\bin\Debug\traning.exe.config
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\traning\bin\Debug\traning.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\traning\bin\Debug\traning.pdb
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\traning\obj\Debug\traning.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\traning\obj\Debug\traning.pdb

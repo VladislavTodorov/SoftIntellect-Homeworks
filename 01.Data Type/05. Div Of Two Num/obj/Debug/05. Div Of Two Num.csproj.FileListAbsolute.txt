@@ -1,0 +1,6 @@
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\05. Div Of Two Num\bin\Debug\_05.Div_Of_Two_Num.exe.config
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\05. Div Of Two Num\bin\Debug\_05.Div_Of_Two_Num.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\05. Div Of Two Num\bin\Debug\_05.Div_Of_Two_Num.pdb
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\05. Div Of Two Num\obj\Debug\05. Div Of Two Num.csprojResolveAssemblyReference.cache
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\05. Div Of Two Num\obj\Debug\_05.Div_Of_Two_Num.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\05. Div Of Two Num\obj\Debug\_05.Div_Of_Two_Num.pdb

@@ -1,0 +1,5 @@
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\07. Div Real On Int\bin\Debug\_07.Div_Real_On_Int.exe.config
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\07. Div Real On Int\bin\Debug\_07.Div_Real_On_Int.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\07. Div Real On Int\bin\Debug\_07.Div_Real_On_Int.pdb
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\07. Div Real On Int\obj\Debug\_07.Div_Real_On_Int.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\07. Div Real On Int\obj\Debug\_07.Div_Real_On_Int.pdb

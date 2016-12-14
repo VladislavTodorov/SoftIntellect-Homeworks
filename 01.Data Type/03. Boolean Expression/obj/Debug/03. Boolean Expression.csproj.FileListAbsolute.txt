@@ -1,0 +1,5 @@
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\03. Boolean Expression\bin\Debug\_03.Boolean_Expression.exe.config
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\03. Boolean Expression\bin\Debug\_03.Boolean_Expression.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\03. Boolean Expression\bin\Debug\_03.Boolean_Expression.pdb
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\03. Boolean Expression\obj\Debug\_03.Boolean_Expression.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\03. Boolean Expression\obj\Debug\_03.Boolean_Expression.pdb

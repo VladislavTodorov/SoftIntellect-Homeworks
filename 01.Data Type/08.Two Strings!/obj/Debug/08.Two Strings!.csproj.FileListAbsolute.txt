@@ -1,0 +1,6 @@
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\08.Two Strings!\bin\Debug\08.Two Strings!.exe.config
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\08.Two Strings!\bin\Debug\08.Two Strings!.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\08.Two Strings!\bin\Debug\08.Two Strings!.pdb
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\08.Two Strings!\obj\Debug\08.Two Strings!.csprojResolveAssemblyReference.cache
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\08.Two Strings!\obj\Debug\08.Two Strings!.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\08.Two Strings!\obj\Debug\08.Two Strings!.pdb

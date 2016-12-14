@@ -1,0 +1,6 @@
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\02. Two Numbers\bin\Debug\_02.Two_Numbers.exe.config
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\02. Two Numbers\bin\Debug\_02.Two_Numbers.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\02. Two Numbers\bin\Debug\_02.Two_Numbers.pdb
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\02. Two Numbers\obj\Debug\02. Two Numbers.csprojResolveAssemblyReference.cache
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\02. Two Numbers\obj\Debug\_02.Two_Numbers.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\02. Two Numbers\obj\Debug\_02.Two_Numbers.pdb

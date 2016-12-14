@@ -1,0 +1,6 @@
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\04. Face Of Rectangle\bin\Debug\_04.Face_Of_Rectangle.exe.config
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\04. Face Of Rectangle\bin\Debug\_04.Face_Of_Rectangle.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\04. Face Of Rectangle\bin\Debug\_04.Face_Of_Rectangle.pdb
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\04. Face Of Rectangle\obj\Debug\04. Face Of Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\04. Face Of Rectangle\obj\Debug\_04.Face_Of_Rectangle.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\04. Face Of Rectangle\obj\Debug\_04.Face_Of_Rectangle.pdb

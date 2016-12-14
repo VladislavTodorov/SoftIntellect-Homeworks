@@ -1,0 +1,6 @@
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\01. Several Variables\bin\Debug\_01.Several_Variables.exe.config
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\01. Several Variables\bin\Debug\_01.Several_Variables.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\01. Several Variables\bin\Debug\_01.Several_Variables.pdb
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\01. Several Variables\obj\Debug\01. Several Variables.csprojResolveAssemblyReference.cache
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\01. Several Variables\obj\Debug\_01.Several_Variables.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\01. Several Variables\obj\Debug\_01.Several_Variables.pdb

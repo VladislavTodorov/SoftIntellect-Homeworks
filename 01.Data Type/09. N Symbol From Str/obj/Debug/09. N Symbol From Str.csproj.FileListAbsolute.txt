@@ -1,0 +1,5 @@
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\09. N Symbol From Str\bin\Debug\_09.N_Symbol_From_Str.exe.config
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\09. N Symbol From Str\bin\Debug\_09.N_Symbol_From_Str.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\09. N Symbol From Str\bin\Debug\_09.N_Symbol_From_Str.pdb
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\09. N Symbol From Str\obj\Debug\_09.N_Symbol_From_Str.exe
+C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\09. N Symbol From Str\obj\Debug\_09.N_Symbol_From_Str.pdb
