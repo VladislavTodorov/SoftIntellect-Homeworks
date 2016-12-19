@@ -1,0 +1,5 @@
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\06. Cards swich-case\bin\Debug\_06.Cards_swich_case.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\06. Cards swich-case\bin\Debug\_06.Cards_swich_case.exe
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\06. Cards swich-case\bin\Debug\_06.Cards_swich_case.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\06. Cards swich-case\obj\Debug\_06.Cards_swich_case.exe
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\06. Cards swich-case\obj\Debug\_06.Cards_swich_case.pdb

@@ -1,0 +1,5 @@
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\01. Example Of Lecture One\bin\Debug\_01.Example_Of_Lecture_One.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\01. Example Of Lecture One\bin\Debug\_01.Example_Of_Lecture_One.exe
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\01. Example Of Lecture One\bin\Debug\_01.Example_Of_Lecture_One.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\01. Example Of Lecture One\obj\Debug\_01.Example_Of_Lecture_One.exe
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\01. Example Of Lecture One\obj\Debug\_01.Example_Of_Lecture_One.pdb

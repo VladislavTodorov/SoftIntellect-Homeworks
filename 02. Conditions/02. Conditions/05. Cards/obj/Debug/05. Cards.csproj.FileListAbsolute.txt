@@ -1,0 +1,6 @@
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\05. Cards\bin\Debug\_05.Cards.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\05. Cards\bin\Debug\_05.Cards.exe
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\05. Cards\bin\Debug\_05.Cards.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\05. Cards\obj\Debug\05. Cards.csprojResolveAssemblyReference.cache
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\05. Cards\obj\Debug\_05.Cards.exe
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\05. Cards\obj\Debug\_05.Cards.pdb

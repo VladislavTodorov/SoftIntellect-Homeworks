@@ -1,0 +1,6 @@
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\02. Example Of Lecture Two\bin\Debug\_02.Example_Of_Lecture_Two.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\02. Example Of Lecture Two\bin\Debug\_02.Example_Of_Lecture_Two.exe
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\02. Example Of Lecture Two\bin\Debug\_02.Example_Of_Lecture_Two.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\02. Example Of Lecture Two\obj\Debug\02. Example Of Lecture Two.csprojResolveAssemblyReference.cache
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\02. Example Of Lecture Two\obj\Debug\_02.Example_Of_Lecture_Two.exe
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\02. Example Of Lecture Two\obj\Debug\_02.Example_Of_Lecture_Two.pdb

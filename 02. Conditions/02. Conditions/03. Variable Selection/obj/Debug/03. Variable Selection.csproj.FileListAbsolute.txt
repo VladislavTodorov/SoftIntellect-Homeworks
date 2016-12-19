@@ -1,0 +1,6 @@
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\03. Variable Selection\bin\Debug\_03.Variable_Selection.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\03. Variable Selection\bin\Debug\_03.Variable_Selection.exe
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\03. Variable Selection\bin\Debug\_03.Variable_Selection.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\03. Variable Selection\obj\Debug\_03.Variable_Selection.exe
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\03. Variable Selection\obj\Debug\_03.Variable_Selection.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\03. Variable Selection\obj\Debug\03. Variable Selection.csprojResolveAssemblyReference.cache

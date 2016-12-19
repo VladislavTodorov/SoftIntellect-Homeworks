@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Example Of Lecture One", "01. Example Of Lecture One\01. Example Of Lecture One.csproj", "{0C823AE0-E0A7-4433-9715-2434DAFA46E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Example Of Lecture Two", "02. Example Of Lecture Two\02. Example Of Lecture Two.csproj", "{0D787212-3EBD-402C-93A3-9AF425C1BFAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Bonus Points", "04. Bonus Points\04. Bonus Points.csproj", "{747222CE-322D-4D2A-AE0B-0F67BAE504AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Variable Selection", "03. Variable Selection\03. Variable Selection.csproj", "{1BF27091-FED4-4A4D-9C9F-B89DD7C8CD05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Cards", "05. Cards\05. Cards.csproj", "{950F0892-1B97-474F-BEBF-7E7217CCA74A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Cards swich-case", "06. Cards swich-case\06. Cards swich-case.csproj", "{DD6C4543-5E5F-40D9-9C03-ED1FE921A90C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C823AE0-E0A7-4433-9715-2434DAFA46E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C823AE0-E0A7-4433-9715-2434DAFA46E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C823AE0-E0A7-4433-9715-2434DAFA46E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C823AE0-E0A7-4433-9715-2434DAFA46E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D787212-3EBD-402C-93A3-9AF425C1BFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D787212-3EBD-402C-93A3-9AF425C1BFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D787212-3EBD-402C-93A3-9AF425C1BFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D787212-3EBD-402C-93A3-9AF425C1BFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{747222CE-322D-4D2A-AE0B-0F67BAE504AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747222CE-322D-4D2A-AE0B-0F67BAE504AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747222CE-322D-4D2A-AE0B-0F67BAE504AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747222CE-322D-4D2A-AE0B-0F67BAE504AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BF27091-FED4-4A4D-9C9F-B89DD7C8CD05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF27091-FED4-4A4D-9C9F-B89DD7C8CD05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF27091-FED4-4A4D-9C9F-B89DD7C8CD05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF27091-FED4-4A4D-9C9F-B89DD7C8CD05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{950F0892-1B97-474F-BEBF-7E7217CCA74A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950F0892-1B97-474F-BEBF-7E7217CCA74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950F0892-1B97-474F-BEBF-7E7217CCA74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950F0892-1B97-474F-BEBF-7E7217CCA74A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6C4543-5E5F-40D9-9C03-ED1FE921A90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6C4543-5E5F-40D9-9C03-ED1FE921A90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6C4543-5E5F-40D9-9C03-ED1FE921A90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6C4543-5E5F-40D9-9C03-ED1FE921A90C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

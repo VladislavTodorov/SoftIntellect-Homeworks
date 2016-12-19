@@ -1,0 +1,6 @@
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\04. Bonus Points\bin\Debug\_04.Bonus_Points.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\04. Bonus Points\bin\Debug\_04.Bonus_Points.exe
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\04. Bonus Points\bin\Debug\_04.Bonus_Points.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\04. Bonus Points\obj\Debug\04. Bonus Points.csprojResolveAssemblyReference.cache
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\04. Bonus Points\obj\Debug\_04.Bonus_Points.exe
+D:\CSharp\INTELLECT\HOMEWORKS\02. Conditions\02. Conditions\04. Bonus Points\obj\Debug\_04.Bonus_Points.pdb
