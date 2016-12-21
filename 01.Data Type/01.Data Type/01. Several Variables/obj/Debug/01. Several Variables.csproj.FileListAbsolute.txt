@@ -7,3 +7,6 @@ C:\Users\vlado\Desktop\INTELLECT\HOMEWORKS\01.Data Type\01. Several Variables\ob
 D:\CSharp\INTELLECT\SoftIntellect-Homeworks\01.Data Type\01. Several Variables\bin\Debug\_01.Several_Variables.exe.config
 D:\CSharp\INTELLECT\SoftIntellect-Homeworks\01.Data Type\01. Several Variables\obj\Debug\_01.Several_Variables.exe
 D:\CSharp\INTELLECT\SoftIntellect-Homeworks\01.Data Type\01. Several Variables\obj\Debug\_01.Several_Variables.pdb
+D:\CSharp\INTELLECT\SoftIntellect-Homeworks\01.Data Type\01.Data Type\01. Several Variables\bin\Debug\_01.Several_Variables.exe.config
+D:\CSharp\INTELLECT\SoftIntellect-Homeworks\01.Data Type\01.Data Type\01. Several Variables\obj\Debug\_01.Several_Variables.exe
+D:\CSharp\INTELLECT\SoftIntellect-Homeworks\01.Data Type\01.Data Type\01. Several Variables\obj\Debug\_01.Several_Variables.pdb
