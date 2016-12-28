@@ -1,0 +1,5 @@
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\06b. Smillest And Biggest Num\bin\Debug\_06b.Smillest_And_Biggest_Num.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\06b. Smillest And Biggest Num\bin\Debug\_06b.Smillest_And_Biggest_Num.exe
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\06b. Smillest And Biggest Num\bin\Debug\_06b.Smillest_And_Biggest_Num.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\06b. Smillest And Biggest Num\obj\Debug\_06b.Smillest_And_Biggest_Num.exe
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\06b. Smillest And Biggest Num\obj\Debug\_06b.Smillest_And_Biggest_Num.pdb

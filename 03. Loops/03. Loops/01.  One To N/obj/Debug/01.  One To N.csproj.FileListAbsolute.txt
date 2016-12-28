@@ -1,0 +1,5 @@
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\01.  One To N\bin\Debug\_01.One_To_N.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\01.  One To N\bin\Debug\_01.One_To_N.exe
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\01.  One To N\bin\Debug\_01.One_To_N.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\01.  One To N\obj\Debug\_01.One_To_N.exe
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\01.  One To N\obj\Debug\_01.One_To_N.pdb

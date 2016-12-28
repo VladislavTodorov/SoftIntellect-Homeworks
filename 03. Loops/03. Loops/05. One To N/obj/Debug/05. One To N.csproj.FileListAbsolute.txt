@@ -1,0 +1,6 @@
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\05. One To N\bin\Debug\_05.One_To_N.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\05. One To N\bin\Debug\_05.One_To_N.exe
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\05. One To N\bin\Debug\_05.One_To_N.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\05. One To N\obj\Debug\05. One To N.csprojResolveAssemblyReference.cache
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\05. One To N\obj\Debug\_05.One_To_N.exe
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\05. One To N\obj\Debug\_05.One_To_N.pdb

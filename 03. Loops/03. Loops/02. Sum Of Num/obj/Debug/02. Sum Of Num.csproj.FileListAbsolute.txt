@@ -1,0 +1,5 @@
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\02. Sum Of Num\bin\Debug\_02.Sum_Of_Num.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\02. Sum Of Num\bin\Debug\_02.Sum_Of_Num.exe
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\02. Sum Of Num\bin\Debug\_02.Sum_Of_Num.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\02. Sum Of Num\obj\Debug\_02.Sum_Of_Num.exe
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\02. Sum Of Num\obj\Debug\_02.Sum_Of_Num.pdb

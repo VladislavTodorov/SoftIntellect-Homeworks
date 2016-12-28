@@ -1,0 +1,6 @@
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\08. N And K Fact\bin\Debug\_08.N_And_K_Fact.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\08. N And K Fact\bin\Debug\_08.N_And_K_Fact.exe
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\08. N And K Fact\bin\Debug\_08.N_And_K_Fact.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\08. N And K Fact\obj\Debug\08. N And K Fact.csprojResolveAssemblyReference.cache
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\08. N And K Fact\obj\Debug\_08.N_And_K_Fact.exe
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\08. N And K Fact\obj\Debug\_08.N_And_K_Fact.pdb

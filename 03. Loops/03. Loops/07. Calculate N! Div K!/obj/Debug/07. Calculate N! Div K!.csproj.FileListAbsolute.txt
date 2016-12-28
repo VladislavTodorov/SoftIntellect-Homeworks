@@ -1,0 +1,6 @@
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\07. Calculate N! Div K!\bin\Debug\_07.Calculate_N__Div_K_.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\07. Calculate N! Div K!\bin\Debug\_07.Calculate_N__Div_K_.exe
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\07. Calculate N! Div K!\bin\Debug\_07.Calculate_N__Div_K_.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\07. Calculate N! Div K!\obj\Debug\07. Calculate N! Div K!.csprojResolveAssemblyReference.cache
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\07. Calculate N! Div K!\obj\Debug\_07.Calculate_N__Div_K_.exe
+D:\CSharp\INTELLECT\HOMEWORKS\03. Loops\03. Loops\07. Calculate N! Div K!\obj\Debug\_07.Calculate_N__Div_K_.pdb
