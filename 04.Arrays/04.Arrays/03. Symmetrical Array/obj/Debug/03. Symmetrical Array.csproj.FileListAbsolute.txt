@@ -1,0 +1,6 @@
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\03. Symmetrical Array\bin\Debug\_03.Symmetrical_Array.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\03. Symmetrical Array\bin\Debug\_03.Symmetrical_Array.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\03. Symmetrical Array\bin\Debug\_03.Symmetrical_Array.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\03. Symmetrical Array\obj\Debug\03. Symmetrical Array.csprojResolveAssemblyReference.cache
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\03. Symmetrical Array\obj\Debug\_03.Symmetrical_Array.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\03. Symmetrical Array\obj\Debug\_03.Symmetrical_Array.pdb

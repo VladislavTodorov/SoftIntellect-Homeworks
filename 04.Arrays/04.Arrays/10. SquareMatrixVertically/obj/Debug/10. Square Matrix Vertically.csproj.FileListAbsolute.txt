@@ -1,0 +1,6 @@
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\10. SquareMatrixVertically\bin\Debug\_10.SquareMatrixVertically.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\10. SquareMatrixVertically\bin\Debug\_10.SquareMatrixVertically.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\10. SquareMatrixVertically\bin\Debug\_10.SquareMatrixVertically.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\10. SquareMatrixVertically\obj\Debug\10. Square Matrix Vertically.csprojResolveAssemblyReference.cache
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\10. SquareMatrixVertically\obj\Debug\_10.SquareMatrixVertically.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\10. SquareMatrixVertically\obj\Debug\_10.SquareMatrixVertically.pdb

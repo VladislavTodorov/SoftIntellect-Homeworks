@@ -1,0 +1,5 @@
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\02. Reversing The Array\bin\Debug\_02.Reversing_The_Array.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\02. Reversing The Array\bin\Debug\_02.Reversing_The_Array.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\02. Reversing The Array\bin\Debug\_02.Reversing_The_Array.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\02. Reversing The Array\obj\Debug\_02.Reversing_The_Array.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\02. Reversing The Array\obj\Debug\_02.Reversing_The_Array.pdb

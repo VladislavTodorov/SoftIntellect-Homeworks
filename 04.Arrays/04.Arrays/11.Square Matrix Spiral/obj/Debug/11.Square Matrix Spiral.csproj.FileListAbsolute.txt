@@ -1,0 +1,6 @@
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\11.Square Matrix Spiral\bin\Debug\11.Square Matrix Spiral.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\11.Square Matrix Spiral\bin\Debug\11.Square Matrix Spiral.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\11.Square Matrix Spiral\bin\Debug\11.Square Matrix Spiral.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\11.Square Matrix Spiral\obj\Debug\11.Square Matrix Spiral.csprojResolveAssemblyReference.cache
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\11.Square Matrix Spiral\obj\Debug\11.Square Matrix Spiral.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\11.Square Matrix Spiral\obj\Debug\11.Square Matrix Spiral.pdb

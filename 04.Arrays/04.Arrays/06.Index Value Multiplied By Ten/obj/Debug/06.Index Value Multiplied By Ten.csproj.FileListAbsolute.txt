@@ -1,0 +1,6 @@
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\06.Index Value Multiplied By Ten\bin\Debug\06.Index Value Multiplied By Ten.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\06.Index Value Multiplied By Ten\obj\Debug\06.Index Value Multiplied By Ten.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\06.Index Value Multiplied By Ten\obj\Debug\06.Index Value Multiplied By Ten.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\06.Index Value Multiplied By Ten\obj\Debug\06.Index Value Multiplied By Ten.csprojResolveAssemblyReference.cache
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\06.Index Value Multiplied By Ten\bin\Debug\06.Index Value Multiplied By Ten.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\06.Index Value Multiplied By Ten\bin\Debug\06.Index Value Multiplied By Ten.pdb

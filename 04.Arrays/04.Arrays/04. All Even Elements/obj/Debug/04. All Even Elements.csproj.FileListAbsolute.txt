@@ -1,0 +1,6 @@
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\04. All Even Elements\bin\Debug\_04.All_Even_Elements.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\04. All Even Elements\bin\Debug\_04.All_Even_Elements.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\04. All Even Elements\bin\Debug\_04.All_Even_Elements.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\04. All Even Elements\obj\Debug\04. All Even Elements.csprojResolveAssemblyReference.cache
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\04. All Even Elements\obj\Debug\_04.All_Even_Elements.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\04. All Even Elements\obj\Debug\_04.All_Even_Elements.pdb

@@ -1,0 +1,6 @@
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\07. IndexFirstNumberFound\bin\Debug\_07.IndexFirstNumberFound.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\07. IndexFirstNumberFound\bin\Debug\_07.IndexFirstNumberFound.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\07. IndexFirstNumberFound\bin\Debug\_07.IndexFirstNumberFound.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\07. IndexFirstNumberFound\obj\Debug\07. Index First Number Found.csprojResolveAssemblyReference.cache
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\07. IndexFirstNumberFound\obj\Debug\_07.IndexFirstNumberFound.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\07. IndexFirstNumberFound\obj\Debug\_07.IndexFirstNumberFound.pdb

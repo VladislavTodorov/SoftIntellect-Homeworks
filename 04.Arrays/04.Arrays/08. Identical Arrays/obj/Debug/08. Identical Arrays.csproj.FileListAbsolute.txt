@@ -1,0 +1,6 @@
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\08. Identical Arrays\bin\Debug\_08.Identical_Arrays.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\08. Identical Arrays\bin\Debug\_08.Identical_Arrays.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\08. Identical Arrays\bin\Debug\_08.Identical_Arrays.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\08. Identical Arrays\obj\Debug\08. Identical Arrays.csprojResolveAssemblyReference.cache
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\08. Identical Arrays\obj\Debug\_08.Identical_Arrays.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\08. Identical Arrays\obj\Debug\_08.Identical_Arrays.pdb

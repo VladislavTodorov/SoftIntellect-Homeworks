@@ -1,0 +1,6 @@
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\01.One To Another Array\bin\Debug\01.One To Another Array.exe.config
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\01.One To Another Array\bin\Debug\01.One To Another Array.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\01.One To Another Array\bin\Debug\01.One To Another Array.pdb
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\01.One To Another Array\obj\Debug\01.One To Another Array.csprojResolveAssemblyReference.cache
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\01.One To Another Array\obj\Debug\01.One To Another Array.exe
+D:\CSharp\INTELLECT\HOMEWORKS\04.Arrays\04.Arrays\01.One To Another Array\obj\Debug\01.One To Another Array.pdb
